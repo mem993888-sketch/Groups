@@ -1,4 +1,4 @@
-٧ اعمليلي
+
 workflows:
   android-workflow:
     name: Android Build
